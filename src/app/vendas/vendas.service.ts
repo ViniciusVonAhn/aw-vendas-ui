@@ -7,7 +7,7 @@ import { Observable } from 'rxjs';
 })
 export class VendasService {
 
-  private api = 'http://localhost:8080';
+  private api = 'https://aw-vendas-api.herokuapp.com';
 
   constructor(private http: HttpClient) { }
 
