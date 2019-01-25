@@ -1,4 +1,5 @@
 # AwVendasUi
+Deploy feito no [heroku](https://aw-vendas-ui.herokuapp.com/)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
